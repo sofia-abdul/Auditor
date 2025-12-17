@@ -1,28 +1,22 @@
 # Fire Safety technology
 
-A fire safety monitoring prototype designed for use on  remote-controlled car using thermal and radar sensors with a dashboard for visualising live data.
+A fire safety monitoring prototype designed on a remote-controlled car using thermal and radar sensors with a dashboard for visualising live data.
 
 ## About
 
-This project explores basic fire and heat monitoring by combining thermal sensing with radar-based motion detection. The system allows sensor data to be collected while moving through an environment rather than from a fixed position.
+This project explores fire and heat monitoring by combining thermal sensing with radar-based motion detection. The system is deployed on a remote-controlled vehicle, allowing sensor data to be collected while the car is manually driven through an environment.
 
-## What It Does
+## Features
 
-* Measures temperature using a thermal sensor
-* Detects motion or presence with a radar sensor
-* Displays live sensor readings on a dashboard
-
-## Why Thermal and Radar Sensors
-
-* Traditional fire detection systems often rely heavily on smoke sensors, which can be slow to respond and prone to false alarms
-* Thermal sensors allow early identification of heat sources before flames or smoke fully develop
-* Radar sensors can detect movement or presence
-* Combining both sensors provides more information during testing and can reduce unnecessary alerts
+* Thermal temperature sensing
+* Radar-based motion or presence detection
+* Manual RC movement using a handheld remote
+* Live sensor data displayed on a dashboard
 
 ## Future Ideas
 
 * Semi-autonomous navigation
-* Integration with IoT dashboards
+* IoT dashboard integration
 * Machine learning based fire risk classification
 * etc
 
